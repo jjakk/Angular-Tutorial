@@ -1,0 +1,23 @@
+{
+  "name": "angular-tutorial",
+  "version": "1.0.0",
+  "description": "This is my code from the following tutorial: https://www.youtube.com/watch?v=3qBXWUpoPHo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjakk/Angular-Tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjakk/Angular-Tutorial/issues"
+  },
+  "homepage": "https://github.com/jjakk/Angular-Tutorial#readme",
+  "dependencies": {
+    "typescript": "^5.4.3"
+  }
+}
